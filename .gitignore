@@ -1,8 +1,5 @@
-obj
-bin
-appsettings.json
-*.db
-.suo
-.dtbcache.v2
-skinet.db-shm
-skinet.db-wal
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/skinet
