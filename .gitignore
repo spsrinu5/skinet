@@ -3,3 +3,11 @@
 ################################################################################
 
 /.vs/skinet
+/skinet/.vs/skinet
+/skinet/API/bin/Debug/net5.0
+/skinet/API/obj/Debug/net5.0
+/skinet/API/obj
+/skinet/Core/bin/Debug/net5.0
+/skinet/Core/obj
+/skinet/Infrastructure/bin/Debug/net5.0
+/skinet/Infrastructure/obj
